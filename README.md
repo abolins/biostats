@@ -5,9 +5,8 @@ An R-based web-tool developed using Shiny that allows introductory biology (or o
 
         Pearson correlation
 
-Spearman rank correlation
-
-two-sample t-test (paired and unpaired designs)
+                Spearman rank correlation
+                two-sample t-test (paired and unpaired designs)
 
 MWU test (paired and unpaired designs)
 
