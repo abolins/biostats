@@ -3,7 +3,7 @@ Statistics app for introductory biology students
 
 An R-based web-tool developed using Shiny that allows introductory biology (or other natural sciences) students to upload their own data, calculate summary statistics, make box and scatter plots, and conduct common statistical tests. Tests include:
 
-Pearson correlation
+        Pearson correlation
 
 Spearman rank correlation
 
